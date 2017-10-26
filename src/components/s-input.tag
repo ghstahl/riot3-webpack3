@@ -1,4 +1,5 @@
 <s-input>
+    <h3>{ opts.title }</h3>
     <input type="text" class="form-control" id="{ refid }" value="{ value }" ref="input">
 
     <script type="text/javascript">
